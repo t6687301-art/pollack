@@ -1,0 +1,48 @@
+/* Estilos muy sencillos para la página */
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+header {
+    background-color: #0056b3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+nav {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+nav a {
+    color: #0056b3;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #666666;
+    font-size: 14px;
+}
